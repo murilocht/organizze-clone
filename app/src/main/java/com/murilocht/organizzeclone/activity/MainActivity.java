@@ -8,8 +8,6 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.heinrichreimersoftware.materialintro.app.IntroActivity;
 import com.heinrichreimersoftware.materialintro.slide.FragmentSlide;
 import com.murilocht.organizzeclone.R;
-import com.murilocht.organizzeclone.activity.CadastroActivity;
-import com.murilocht.organizzeclone.activity.LoginActivity;
 import com.murilocht.organizzeclone.config.ConfiguracaoFirebase;
 
 public class MainActivity extends IntroActivity {
